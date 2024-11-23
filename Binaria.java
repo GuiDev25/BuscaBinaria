@@ -6,10 +6,7 @@
 package Binaria;
 import java.util.Scanner;
 import java.util.Random;
-/**
- *
- * @author IsmaelPC
- */
+
 public class Binaria {
     public static void main(String[] args) {
         Scanner tec = new Scanner(System.in);
